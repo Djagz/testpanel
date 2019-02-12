@@ -1,0 +1,17 @@
+.navbar{
+	width: 100%;
+	background-color: green;
+	height: 80px;
+}
+
+.leftLi > li{
+	display: inline;
+	padding: 20px;
+	float: left;
+}
+
+.rightLi > li{
+	display: inline;
+	padding: 20px;
+	float: right;
+}
